@@ -1,4 +1,4 @@
-# EMS_Assignment
+# Scala Studio - Assignment 1
 ## Create an Employee Management System where there are the following types of employees:
 
 1. Consultant
@@ -28,3 +28,5 @@ and take start time as 09:45 AM and end time as 06:45 PM automatically.
 
 
 Submission Link: https://forms.gle/pSEdnh8CqaaVJPKt7
+
+
